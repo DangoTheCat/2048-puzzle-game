@@ -15,7 +15,6 @@ This project was developed as a personal challenge to master **Object-Oriented P
 ## 🛠 Tech Stack
 - **Language:** C#
 - **Framework:** Unity
-- **IDE:** Antigravity / Visual Studio
 - **Version Control:** Git & GitHub
 
 ## 🧠 Technical Highlights
