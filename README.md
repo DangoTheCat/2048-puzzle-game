@@ -27,10 +27,6 @@ Applying Don Norman’s principles, I focused on:
 - **Visibility of system status:** Always showing the current score and game state.
 - **User control and freedom:** (Optional: Nếu có nút Undo) Simple "New Game" and "Undo" functionalities.
 
-## 📸 Screenshots
-*(Include screenshots of your game here to make it more visual)*
-![Game Preview](https://via.placeholder.com/400x400.png?text=2048+Game+Preview)
-
 ## 🏗 How to Run
 1. Clone this repository:
    ```bash
